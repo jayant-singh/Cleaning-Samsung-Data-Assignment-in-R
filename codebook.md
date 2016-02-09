@@ -7,8 +7,8 @@
 
        
  This codebook describes the R script, **run\_analysis.R**. This R code
-comprises of following sections; \* Reading data \* Helper functions,
-and \* Data manipulation.
+comprises of following sections; **Reading data**, **Helper functions**,
+and **Data manipulation**.
 
 Reading Data
 ------------
