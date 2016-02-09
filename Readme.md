@@ -71,11 +71,10 @@ data frame are shown below;
 
 
 
-
-| ID  | Activity | tBodyAcc-mean()-X | tBodyAcc-mean()-Y | tBodyAcc-mean()-Z|
-| ------------- | ------------- |
-| 1  | LAYING | 0.2215982 | -0.040513953 | -0.1132036|
-| 1  | SITTING  | 0.2612376 |  -0.001308288 | -0.1045442|
+| ID | Activity| tBodyAcc-mean()-X|
+| ----| ---------|  -----------------| 
+| 1 | LAYING | 0.2215982|
+| 1 | SITTING  | 0.2612376  |
 
 Next, this data frame is loaded into a text file called
 **id\_activity\_std\_mean\_average.txt**, using **write.table()**.
