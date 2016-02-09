@@ -53,8 +53,9 @@ details regarding these functions, please refer to the readme.md.
 Data Manipulation
 -----------------
 
-The transformation of data consists of following steps: 1. To begin
-with, train\_id is merged with train\_set.Similarly, test\_id is merged
+The transformation of data consists of following steps: 
+
+1. To begin with, train\_id is merged with train\_set.Similarly, test\_id is merged
 with test\_set.
 
 2.  Next, we merge train\_set and test\_set to form train\_test.
